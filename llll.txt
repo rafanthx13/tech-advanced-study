@@ -1,3 +1,20 @@
 sudo apt-get install libmysqlclient-dev
 sudo apt-get install libssl-dev
 sudo apt-get install libkrb5-dev
+
+
+export SLUGIFY_USES_TEXT_UNIDECODE=yes
+export LC_ALL="en_US.UTF-8"
+export LC_CTYPE="en_US.UTF-8"
+sudo dpkg-reconfigure locales
+
+export AIRFLOW_HOME=/airflow
+sudo mkdir $AIRFLOW_HOME
+sudo chmod 777 $AIRFLOW_HOME
+cd $AIRFLOW_HOME
+
+
+pip3 install apache-airflow
+
+
+airflow version

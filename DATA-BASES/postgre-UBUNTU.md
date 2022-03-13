@@ -1,5 +1,7 @@
 # PostgreSQL no Unbuntu
 
+Conseguir conectar no elixir usando postgres::postgress
+
 ## Links
 
 https://www.devmedia.com.br/instalacao-e-configuracao-do-servidor-postgresql-no-linux/26184
@@ -45,4 +47,8 @@ https://www.devmedia.com.br/instalacao-e-configuracao-do-servidor-postgresql-no-
 Onde 9.3 é uma versão do psotgre, pode ter vairias, entao faz em todos
 
 `/etc/postgresql/9.3/main/pg_hba.conf`
+
+## Criando usuário
+
+
 

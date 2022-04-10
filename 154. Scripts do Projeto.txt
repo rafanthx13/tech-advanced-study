@@ -1,5 +1,0 @@
-Machine Learning e IA em Ambientes Distribuídos
-Scripts do Projeto
-
-
-Em anexo você encontra todos os scripts usados no projeto deste capítulo.

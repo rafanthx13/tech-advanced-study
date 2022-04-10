@@ -1,0 +1,13 @@
+COisa interressante que são sempre gratuitas
+
+
+AWS Glue
+1 milhão
+de objetos armazenados no catálogo de dados do AWS Glue
+Serviço de extração, transferência e carga (ETL) simples, flexível e econômico.
+
+Amazon DynamoDB
+25 GB
+
+de armazenamento
+Banco de dados NoSQL rápido e flexível, com escalabilidade transparente.
